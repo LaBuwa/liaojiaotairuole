@@ -1,3 +1,5 @@
 li李小刚，加油加油
 
 挺好
+
+test git 管理的是 xiugai

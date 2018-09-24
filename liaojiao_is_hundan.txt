@@ -26,6 +26,8 @@ jlsdjkf;alsdj
 sdjflsdkf`
 
 
-lskdjflksajdflsa最后议题次一次提交
+lskdjflksajdflsa最后议题次git checkout 1一次提交k
 
-li俩叫廖姣 她就是 个。。。。哈哈
+li俩叫廖姣 她就是 个。。。。哈lkdfdfdsfsdf哈
+
+wo我新增加了一行，用于测试git 的 checkout -b 创建分支并切换分支功能

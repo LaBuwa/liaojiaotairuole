@@ -30,4 +30,6 @@ lskdjflksajdflsa最后议题次git checkout 1一次提交k
 
 li俩叫廖姣 她就是 个。。。。哈lkdfdfdsfsdf哈
 
-wo我新增加了一行，用于测试git 的 checkout -b 创建分支并切换分支功能
+git ,ce测试解决冲突
+
+wo 修改了最后一行，用于测试解决冲突，用于测试git 的 checkout -b 创建分支并切换分支功能

@@ -24,3 +24,5 @@ git reflog				显示每一次的提交/回退指令
 git checkout -- XXX			回退文件到最近一次 commit 或 git add 的状态
 
 git reset HEAD XXX			将暂存区中的文件撤销掉（从暂存区中删除该文件的修改记录）
+
+git rm XXX				从 git 库中删除 XXX 文件

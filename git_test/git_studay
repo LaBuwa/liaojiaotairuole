@@ -38,3 +38,5 @@ git checkout XXX			切换分支
 git merge XXX				将某分支合并到 master 分支·
 
 
+git log --graph				查看分支合并图
+	eg:  git log --graph --pretty=oneline --abbrev-commit

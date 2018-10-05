@@ -31,8 +31,18 @@ lskdjflksajdflsa最后议题次git checkout 1一次提交k
 li俩叫廖姣 她就是 个。。。。哈lkdfdfdsfsdf哈
 
 其他分支修改的内容，用于测试git 的 checkout -b 创建分支并切换分支功能
-git ,ce测试解决冲突
+aldjfit ,ce测试解决冲突
+
+wo我测试结局冲突。。。kkkk
 
 了,bu我不想使用 git 的 Fast forward 合并分支了，我要尝试另外的其他方式
 
-最后一行，用于测试解决冲突，用于测试git 的 checkout -b 创建分支并切换分支功能
+乱扣恺恺恺
+
+最后一行，用于测试zhe这这次解决中途比较 low 解决冲突，用于测试git 的 checkout -b 创建分支并切换分支功能
+
+kkkkk
+
+
+
+kkzai在主分支上删除了一行

@@ -40,3 +40,5 @@ git merge XXX				将某分支合并到 master 分支·
 
 git log --graph				查看分支合并图
 	eg:  git log --graph --pretty=oneline --abbrev-commit
+
+ssh-keygen -t rsa -C "youremail@example.com"	创建SSH Key

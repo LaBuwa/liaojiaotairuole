@@ -45,3 +45,13 @@ ssh-keygen -t rsa -C "youremail@example.com"	创建SSH Key
 
 git merge dev				把dev 分支合并到当前分支
 git merge --no-ff -m "xxx" dev		把dev 分支合并到当前分支，并创建新的 commit
+
+
+git stash				将当前的修改 stash 起来，stash 之前，本分支的修改将会不可见，可以在 stash 之后，修改其他分支的 bug
+git stash list				显示 stash 列表
+// 恢复 stash 的内容
+git stash apply stash@{index}
+git stash pop
+
+git stash drop				删除某一个 stash
+

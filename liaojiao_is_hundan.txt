@@ -39,8 +39,8 @@ git ,ce测试解决冲突
 
 kkk
 了,bu我不想使用 git 的 Fast forward 合并分支了，我要尝试另外的其他方式
-wo 在主分支上插入了一行
 乱扣恺恺恺
+eing a new branch is quick and simple.了,bu我不想使用 git 的 Fast forward 合并分支了，我要尝试另外的其他方式
 
 最后一行，用于测试zhe这这次解决中途比较 low 解决冲突，用于测试git 的 checkout -b 创建分支并切换分支功能
 

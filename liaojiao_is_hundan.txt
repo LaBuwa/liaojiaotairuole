@@ -37,6 +37,6 @@ git ,ce测试解决冲突
 
 
 kkk
-了,bu我不想使用 git 的 Fast forward 合并分支了，我要尝试另外的其他方式
+Createing a new branch is quick and simple.了,bu我不想使用 git 的 Fast forward 合并分支了，我要尝试另外的其他方式
 
 最后一行，用于测试解决冲突，用于测试git 的 checkout -b 创建分支并切换分支功能

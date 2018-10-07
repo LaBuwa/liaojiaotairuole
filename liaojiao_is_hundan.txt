@@ -49,3 +49,6 @@ kkkkk
 
 
 kka git add a new branch local i在主分支上删除了一行
+
+
+最后一行不应该 在 bug 修复分支上看到

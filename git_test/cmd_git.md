@@ -55,3 +55,7 @@ git stash pop
 
 git stash drop				删除某一个 stash
 
+// 重命名文件或文件夹
+git mv -f old new
+git add -u newfolder (-u选项会更新已经追踪的文件和文件夹)
+

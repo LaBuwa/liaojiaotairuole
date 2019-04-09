@@ -1,4 +1,4 @@
-git init
+﻿git init
 
 git add XXX
 
@@ -58,4 +58,19 @@ git stash drop				删除某一个 stash
 // 重命名文件或文件夹
 git mv -f old new
 git add -u newfolder (-u选项会更新已经追踪的文件和文件夹)
+
+
+
+删除暂存区文件
+如果你错误的添加了不想添加的文件到暂存区
+
+git rm --cache 文件名
+简单粗暴的方式，删除暂存区所有文件：
+
+git rm -r --cached .
+
+删除文件
+同时删除工作区和暂存区的文件
+
+git rm -f 文件名
 

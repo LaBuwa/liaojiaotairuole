@@ -17,3 +17,6 @@
 	
 	查看当前仓库配置信息
 	git config --local --list
+
+设置颜色差异显示：
+	git config --global color.ui true

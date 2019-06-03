@@ -8,17 +8,30 @@ git commit -m "XXX"
 git log
 git log XXX
 git log --pretty=oneline
+git log -p -2
+	-p 选项展开显示每次提交的内容差异，用 -2 则仅显示最近的两次更新：
+
+git show	查看最后一次提交详情
+git show -stat	查看最后一次提交记录的  简介
+
 
 git diff
 
 
 git status
 
+回退步骤
 
-git reset --hard HEAD^			回退到上一版本
-git reset --hard HEAD^^			回退到上上次版本
+第二步：git reflog查出要回退到merge前的版本号
+	git reflog
+第三步：git reset --hard [版本号]就回退到merge前的代码状态了
+	git reset --hard f82cfd2
+
+git reset --hard HEAD^		回退到上一版本
+git reset --hard HEAD^^		回退到上上次版本
 git reset --hard HEAD~100		回退到第100 次时的版本
 git reset --hard XXX			回退到指定版本
+git reset HEAD <file>		从暂存区删除
 
 git reflog				显示每一次的提交/回退指令
 
@@ -74,3 +87,7 @@ git rm -r --cached .
 
 git rm -f 文件名
 
+查看远程仓库命令
+git remote -v
+
+echo “bin/” >.gitignore		增加忽略文件

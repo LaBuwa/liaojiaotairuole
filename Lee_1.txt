@@ -10,6 +10,7 @@ git guan管理的是 modigy
 add 之后，commit zhiq之前 的提交。。。
 
 
-人如其字，字如:
-zhe 这两行不能被看到
+进程后台运行
+nohup tar czf /data/backup.tgz /data/backup &
+ctrl+d  或者 关闭窗口  进程任然会在后台执行
 

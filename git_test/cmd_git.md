@@ -8,8 +8,14 @@ git commit -m "XXX"
 git log
 git log XXX
 git log --pretty=oneline
+git log --graph --all --decorate
+	查看git log的图
 git log -p -2
 	-p 选项展开显示每次提交的内容差异，用 -2 则仅显示最近的两次更新：
+
+git reflog --date=local | grep 分支名
+	查看分支是从哪个分支切出来的
+
 
 git show	查看最后一次提交详情
 git show -stat	查看最后一次提交记录的  简介

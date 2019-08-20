@@ -11,6 +11,9 @@ add 之后，commit zhiq之前 的提交。。。
 
 
 进程后台运行
+nohup + XXX(程序名)
+
+
 nohup tar czf /data/backup.tgz /data/backup &
 ctrl+d  或者 关闭窗口  进程任然会在后台执行
 

@@ -20,3 +20,6 @@
 
 设置颜色差异显示：
 	git config --global color.ui true
+
+给命令设置别名
+	git config –global alias.it init 

@@ -1,0 +1,2 @@
+netstat -tunpl | grep 端口号
+	查询 某端口号 对应的进程
